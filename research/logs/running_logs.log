@@ -1,0 +1,5 @@
+[2024-02-22 22:30:06,126: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 22:30:06,130: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 22:30:06,131: INFO: common: created directory at: artifacts]
+[2024-02-22 22:30:06,133: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 22:30:06,134: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]

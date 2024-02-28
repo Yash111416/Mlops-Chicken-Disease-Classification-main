@@ -1,0 +1,598 @@
+[2024-02-22 14:44:24,473: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 14:44:24,479: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 14:44:24,480: INFO: common: created directory at: artifacts]
+[2024-02-22 14:53:57,484: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 14:53:57,489: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 14:53:57,490: INFO: common: created directory at: artifacts]
+[2024-02-22 14:55:32,537: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 14:55:32,539: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 14:55:32,540: INFO: common: created directory at: artifacts]
+[2024-02-22 14:55:37,170: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 14:55:37,172: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 14:55:37,175: INFO: common: created directory at: artifacts]
+[2024-02-22 14:56:25,540: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 14:56:25,542: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 14:56:25,543: INFO: common: created directory at: artifacts]
+[2024-02-22 14:56:25,543: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-22 14:56:27,381: INFO: 180059107: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C156:25D89:2AA427:36721B:65D71342
+Accept-Ranges: bytes
+Date: Thu, 22 Feb 2024 09:26:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21745-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1708593986.222092,VS0,VE907
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c89213106b73ac8835a769dabf07310f4fa1e337
+Expires: Thu, 22 Feb 2024 09:31:27 GMT
+Source-Age: 1
+
+]
+[2024-02-22 15:26:05,947: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-02-22 15:26:05,948: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 15:26:05,949: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 15:26:05,950: INFO: common: created directory at: artifacts]
+[2024-02-22 15:26:05,950: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-22 15:26:07,116: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C156:25D89:2AA427:36721B:65D71342
+Accept-Ranges: bytes
+Date: Thu, 22 Feb 2024 09:56:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21722-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1708595767.524333,VS0,VE270
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ff09096c3ded3590e9b13f191b6605c4e610e383
+Expires: Thu, 22 Feb 2024 10:01:06 GMT
+Source-Age: 0
+
+]
+[2024-02-22 15:26:07,234: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<<
+
+x========x]
+[2024-02-22 16:32:44,574: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 16:32:44,582: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 16:32:44,583: INFO: common: created directory at: artifacts]
+[2024-02-22 16:37:40,908: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 16:37:40,910: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 16:37:40,911: INFO: common: created directory at: artifacts]
+[2024-02-22 16:40:02,236: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 16:40:02,239: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 16:40:02,239: INFO: common: created directory at: artifacts]
+[2024-02-22 16:47:38,221: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 16:47:38,225: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 16:47:38,227: INFO: common: created directory at: artifacts]
+[2024-02-22 16:48:14,015: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 16:48:14,019: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 16:48:14,021: INFO: common: created directory at: artifacts]
+[2024-02-22 16:48:14,022: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-22 16:55:32,877: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 16:55:32,905: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 16:55:32,908: INFO: common: created directory at: artifacts]
+[2024-02-22 16:55:32,909: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-22 16:55:40,060: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-22 16:57:22,872: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 16:57:22,875: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 16:57:22,876: INFO: common: created directory at: artifacts]
+[2024-02-22 16:57:22,877: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-22 16:57:23,226: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-22 16:57:23,366: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-22 16:57:23,371: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-22 19:09:10,069: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-02-22 19:09:10,070: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 19:09:10,071: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 19:09:10,071: INFO: common: created directory at: artifacts]
+[2024-02-22 19:09:10,071: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-22 19:09:10,599: ERROR: main: HTTP Error 404: Not Found]
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    data_ingstion.main()
+  File "/Users/yashbishnoi/Downloads/Mlops-Chicken-Disease-Classification-main/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "/Users/yashbishnoi/Downloads/Mlops-Chicken-Disease-Classification-main/src/cnnClassifier/components/data_ingestion.py", line 16, in download_file
+    filename, headers = request.urlretrieve(
+  File "/Users/yashbishnoi/anaconda3/envs/chicken/lib/python3.8/urllib/request.py", line 247, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/Users/yashbishnoi/anaconda3/envs/chicken/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Users/yashbishnoi/anaconda3/envs/chicken/lib/python3.8/urllib/request.py", line 531, in open
+    response = meth(req, response)
+  File "/Users/yashbishnoi/anaconda3/envs/chicken/lib/python3.8/urllib/request.py", line 640, in http_response
+    response = self.parent.error(
+  File "/Users/yashbishnoi/anaconda3/envs/chicken/lib/python3.8/urllib/request.py", line 569, in error
+    return self._call_chain(*args)
+  File "/Users/yashbishnoi/anaconda3/envs/chicken/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/Users/yashbishnoi/anaconda3/envs/chicken/lib/python3.8/urllib/request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+[2024-02-22 19:14:03,392: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-02-22 19:14:03,393: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 19:14:03,394: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 19:14:03,394: INFO: common: created directory at: artifacts]
+[2024-02-22 19:14:03,395: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-22 19:14:04,303: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Thu, 22 Feb 2024 13:44:04 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"408c68852689adbba95d4309443b54d8"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=jVTgqJqAzCH%2BFJVcKRkr4bOFYWqWa4zMk91L6JKelPOQuo79djZXDcEfeFaLKW2KeAgtT6kX3mraVbs6%2FkriX%2FoTQwr%2BZSWugHfdO6U%2F5ZlwUsqWMuRJfJqhSM5gPQdXezZYwnUIrOlk%2BGkF1FXS%2BSwajFC5zTeZVnAwNlFnY2veEMW21ufABWDd0JSh0TQRLRpCX5KI60ijVHK4vXetDcxnkEWoQTYRhckspeoDZgQT0BizcebGRtC58xWomkIQePFk9mJXFCAGYq0mksGr%2FA%3D%3D--fjJ%2Bfn%2FNAZWN3BeK--p1CjdGNGmWrb1AZr5%2FHeAQ%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1252916487.1708609443; Path=/; Domain=github.com; Expires=Sat, 22 Feb 2025 13:44:03 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 22 Feb 2025 13:44:03 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: ED60:14CC2B:884738:950D68:65D74FA3
+connection: close
+
+]
+[2024-02-22 19:14:04,304: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    data_ingstion.main()
+  File "/Users/yashbishnoi/Downloads/Mlops-Chicken-Disease-Classification-main/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 17, in main
+    data_ingestion.extract_zip_file()
+  File "/Users/yashbishnoi/Downloads/Mlops-Chicken-Disease-Classification-main/src/cnnClassifier/components/data_ingestion.py", line 35, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "/Users/yashbishnoi/anaconda3/envs/chicken/lib/python3.8/zipfile.py", line 1269, in __init__
+    self._RealGetContents()
+  File "/Users/yashbishnoi/anaconda3/envs/chicken/lib/python3.8/zipfile.py", line 1336, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-02-22 19:15:50,846: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-02-22 19:15:50,848: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 19:15:50,849: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 19:15:50,849: INFO: common: created directory at: artifacts]
+[2024-02-22 19:15:50,849: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-22 19:15:52,885: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B6C0:26B5A:2E33FC:3ACA12:65D7500E
+Accept-Ranges: bytes
+Date: Thu, 22 Feb 2024 13:45:52 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21725-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1708609552.616444,VS0,VE882
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d17be75a5d153f8c0812531f4714572addd02596
+Expires: Thu, 22 Feb 2024 13:50:52 GMT
+Source-Age: 1
+
+]
+[2024-02-22 19:15:52,997: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<<
+
+x========x]
+[2024-02-22 19:15:52,997: INFO: main: ****************************]
+[2024-02-22 19:15:52,997: INFO: main: >>>>>> stage Prepare Base Model started <<<<<<]
+[2024-02-22 19:15:52,998: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 19:15:52,999: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 19:15:52,999: INFO: common: created directory at: artifacts]
+[2024-02-22 19:15:52,999: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-22 19:15:53,406: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-22 19:15:53,522: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-22 19:15:53,524: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-22 19:15:53,627: INFO: main: >>>>>>>>> stage Prepare Base Model completed <<<<<<<<<
+
+x==============x]
+[2024-02-22 19:54:56,273: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 19:54:56,281: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 19:54:56,282: INFO: common: created directory at: artifacts]
+[2024-02-22 19:57:49,116: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 19:57:49,119: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 19:57:49,120: INFO: common: created directory at: artifacts]
+[2024-02-22 19:57:49,124: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 19:57:49,125: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 20:10:09,153: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 20:10:09,172: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 20:10:09,175: INFO: common: created directory at: artifacts]
+[2024-02-22 20:10:09,176: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 20:10:09,177: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 20:11:04,971: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 20:11:04,974: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 20:11:04,974: INFO: common: created directory at: artifacts]
+[2024-02-22 20:11:04,975: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 20:11:04,976: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 20:12:34,668: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 20:12:34,671: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 20:12:34,672: INFO: common: created directory at: artifacts]
+[2024-02-22 20:12:34,673: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 20:12:34,674: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 20:12:52,704: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 20:12:52,710: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 20:12:52,712: INFO: common: created directory at: artifacts]
+[2024-02-22 20:12:52,714: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 20:12:52,717: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 20:15:25,594: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 20:15:25,604: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 20:15:25,605: INFO: common: created directory at: artifacts]
+[2024-02-22 20:15:25,609: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 20:15:25,609: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 21:46:30,932: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 21:46:30,948: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 21:46:30,949: INFO: common: created directory at: artifacts]
+[2024-02-22 21:46:30,952: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 21:46:30,953: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 21:46:31,025: INFO: common: created directory at: artifacts/training]
+[2024-02-22 21:52:10,163: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 21:52:10,170: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 21:52:10,170: INFO: common: created directory at: artifacts]
+[2024-02-22 21:52:10,172: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 21:52:10,172: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 21:52:10,186: INFO: common: created directory at: artifacts/training]
+[2024-02-22 21:55:24,634: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 21:55:24,638: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 21:55:24,639: INFO: common: created directory at: artifacts]
+[2024-02-22 21:55:24,640: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 21:55:24,641: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 21:55:24,644: INFO: common: created directory at: artifacts/training]
+[2024-02-22 21:57:09,066: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 21:57:09,080: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 21:57:09,081: INFO: common: created directory at: artifacts]
+[2024-02-22 21:57:09,083: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 21:57:09,085: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 21:57:09,091: INFO: common: created directory at: artifacts/training]
+[2024-02-22 21:58:07,414: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-22 21:58:07,422: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-22 21:58:07,426: INFO: common: created directory at: artifacts]
+[2024-02-22 21:58:07,430: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-22 21:58:07,439: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-22 21:58:07,447: INFO: common: created directory at: artifacts/training]
+[2024-02-22 22:11:16,060: INFO: builder_impl: Assets written to: artifacts/prepare_callbacks/checkpoint_dir/model.hs/assets]
+[2024-02-22 22:12:58,796: INFO: builder_impl: Assets written to: artifacts/prepare_callbacks/checkpoint_dir/model.hs/assets]
+[2024-02-22 22:14:29,937: INFO: builder_impl: Assets written to: artifacts/prepare_callbacks/checkpoint_dir/model.hs/assets]
+[2024-02-22 22:20:19,768: INFO: builder_impl: Assets written to: artifacts/prepare_callbacks/checkpoint_dir/model.hs/assets]
+[2024-02-26 17:54:34,832: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-02-26 17:54:34,835: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 17:54:34,836: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 17:54:34,836: INFO: common: created directory at: artifacts]
+[2024-02-26 17:54:34,836: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-26 17:54:34,836: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2024-02-26 17:54:34,953: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<<
+
+x========x]
+[2024-02-26 17:54:34,954: INFO: main: ****************************]
+[2024-02-26 17:54:34,954: INFO: main: >>>>>> stage Prepare Base Model started <<<<<<]
+[2024-02-26 17:54:34,955: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 17:54:34,956: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 17:54:34,956: INFO: common: created directory at: artifacts]
+[2024-02-26 17:54:34,956: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-26 17:54:35,366: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-26 17:54:35,436: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-26 17:54:35,438: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-26 17:54:35,504: INFO: main: >>>>>>>>> stage Prepare Base Model completed <<<<<<<<<
+
+x==============x]
+[2024-02-26 18:10:03,258: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 18:10:03,261: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 18:10:03,262: INFO: common: created directory at: artifacts]
+[2024-02-26 18:10:03,263: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-26 18:10:03,819: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-26 18:10:03,904: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-26 18:10:03,906: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-26 18:16:16,052: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-02-26 18:16:16,055: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 18:16:16,056: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 18:16:16,056: INFO: common: created directory at: artifacts]
+[2024-02-26 18:16:16,056: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-26 18:16:21,821: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E42A:397760:9F394:C735B:65DC881A
+Accept-Ranges: bytes
+Date: Mon, 26 Feb 2024 12:46:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21749-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1708951579.730400,VS0,VE987
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e2a442c28e7febddbb4eb683629cb235733a60ea
+Expires: Mon, 26 Feb 2024 12:51:19 GMT
+Source-Age: 1
+
+]
+[2024-02-26 18:16:21,934: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<<
+
+x========x]
+[2024-02-26 18:16:21,934: INFO: main: ****************************]
+[2024-02-26 18:16:21,934: INFO: main: >>>>>> stage Prepare Base Model started <<<<<<]
+[2024-02-26 18:16:21,936: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 18:16:21,937: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 18:16:21,937: INFO: common: created directory at: artifacts]
+[2024-02-26 18:16:21,938: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-26 18:16:22,335: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-26 18:16:22,400: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-26 18:16:22,402: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-26 18:16:22,451: INFO: main: >>>>>>>>> stage Prepare Base Model completed <<<<<<<<<
+
+x==============x]
+[2024-02-26 18:29:54,027: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-02-26 18:29:54,030: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 18:29:54,031: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 18:29:54,032: INFO: common: created directory at: artifacts]
+[2024-02-26 18:29:54,032: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-26 18:29:54,032: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2024-02-26 18:29:54,165: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<<
+
+x========x]
+[2024-02-26 18:29:54,165: INFO: main: ****************************]
+[2024-02-26 18:29:54,166: INFO: main: >>>>>> stage Prepare Base Model started <<<<<<]
+[2024-02-26 18:29:54,167: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 18:29:54,168: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 18:29:54,168: INFO: common: created directory at: artifacts]
+[2024-02-26 18:29:54,168: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-26 18:29:54,645: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-26 18:29:54,797: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-26 18:29:54,798: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-26 18:29:54,873: INFO: main: >>>>>>>>> stage Prepare Base Model completed <<<<<<<<<
+
+x==============x]
+[2024-02-26 18:29:54,874: INFO: main: *******************]
+[2024-02-26 18:29:54,874: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-02-26 18:29:54,876: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 18:29:54,878: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 18:29:54,878: INFO: common: created directory at: artifacts]
+[2024-02-26 18:29:54,878: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-26 18:29:54,878: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-26 18:29:54,880: INFO: common: created directory at: artifacts/training]
+[2024-02-26 18:31:29,022: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-02-27 16:22:07,699: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 16:22:07,713: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 16:22:07,716: INFO: common: created directory at: artifacts]
+[2024-02-27 16:22:40,563: INFO: common: json file saved at: scores.json]
+[2024-02-27 16:40:02,394: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-02-27 16:40:02,397: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 16:40:02,398: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 16:40:02,398: INFO: common: created directory at: artifacts]
+[2024-02-27 16:40:02,398: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-27 16:40:04,678: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9102:1822C2:4E638C:65783F:65DDC30A
+Accept-Ranges: bytes
+Date: Tue, 27 Feb 2024 11:10:04 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21728-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1709032203.394106,VS0,VE947
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 506bce43e2feefb40a19f3275952d8af418d5970
+Expires: Tue, 27 Feb 2024 11:15:04 GMT
+Source-Age: 1
+
+]
+[2024-02-27 16:40:04,797: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<<
+
+x========x]
+[2024-02-27 16:40:04,797: INFO: main: ****************************]
+[2024-02-27 16:40:04,797: INFO: main: >>>>>> stage Prepare Base Model started <<<<<<]
+[2024-02-27 16:40:04,798: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 16:40:04,799: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 16:40:04,799: INFO: common: created directory at: artifacts]
+[2024-02-27 16:40:04,800: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-27 16:40:05,199: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-27 16:40:05,268: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-27 16:40:05,270: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-27 16:40:05,320: INFO: main: >>>>>>>>> stage Prepare Base Model completed <<<<<<<<<
+
+x==============x]
+[2024-02-27 16:40:05,320: INFO: main: *******************]
+[2024-02-27 16:40:05,320: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-02-27 16:40:05,321: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 16:40:05,322: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 16:40:05,322: INFO: common: created directory at: artifacts]
+[2024-02-27 16:40:05,323: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-27 16:40:05,323: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-27 16:40:05,324: INFO: common: created directory at: artifacts/training]
+[2024-02-27 16:41:37,903: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-02-27 16:46:20,361: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-02-27 16:46:20,364: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 16:46:20,365: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 16:46:20,365: INFO: common: created directory at: artifacts]
+[2024-02-27 16:46:20,365: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-27 16:46:21,652: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9102:1822C2:4E638C:65783F:65DDC30A
+Accept-Ranges: bytes
+Date: Tue, 27 Feb 2024 11:16:21 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21749-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1709032581.211836,VS0,VE297
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8ea6025f479d6918f8632d3d4b6405633df103db
+Expires: Tue, 27 Feb 2024 11:21:21 GMT
+Source-Age: 0
+
+]
+[2024-02-27 16:46:21,853: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<<
+
+x========x]
+[2024-02-27 16:46:21,853: INFO: main: ****************************]
+[2024-02-27 16:46:21,853: INFO: main: >>>>>> stage Prepare Base Model started <<<<<<]
+[2024-02-27 16:46:21,928: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 16:46:21,930: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 16:46:21,931: INFO: common: created directory at: artifacts]
+[2024-02-27 16:46:21,931: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-27 16:46:22,566: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-27 16:46:22,644: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-27 16:46:22,645: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-27 16:46:22,701: INFO: main: >>>>>>>>> stage Prepare Base Model completed <<<<<<<<<
+
+x==============x]
+[2024-02-27 16:46:22,701: INFO: main: *******************]
+[2024-02-27 16:46:22,702: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-02-27 16:46:22,704: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 16:46:22,704: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 16:46:22,705: INFO: common: created directory at: artifacts]
+[2024-02-27 16:46:22,705: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-27 16:46:22,705: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-27 16:46:22,707: INFO: common: created directory at: artifacts/training]
+[2024-02-27 17:13:23,766: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-02-27 17:13:23,774: INFO: main: *******************]
+[2024-02-27 17:13:23,774: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-02-27 17:13:23,786: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 17:13:23,789: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 17:13:23,790: INFO: common: created directory at: artifacts]
+[2024-02-27 17:13:50,979: INFO: common: json file saved at: scores.json]
+[2024-02-27 17:13:50,980: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-02-27 17:25:01,087: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-27 17:25:01,089: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 17:25:01,090: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 17:25:01,091: INFO: common: created directory at: artifacts]
+[2024-02-27 17:25:01,091: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-27 17:25:04,539: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9102:1822C2:4E638C:65783F:65DDC30A
+Accept-Ranges: bytes
+Date: Tue, 27 Feb 2024 11:55:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21736-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1709034903.199326,VS0,VE342
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 6bef102b747a5ab1f8d7f4f9874279321993c63a
+Expires: Tue, 27 Feb 2024 12:00:03 GMT
+Source-Age: 0
+
+]
+[2024-02-27 17:25:04,656: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-02-27 17:25:10,281: INFO: stage_02_prepare_base_model: ****************************]
+[2024-02-27 17:25:10,282: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare Base Model started <<<<<<]
+[2024-02-27 17:25:10,284: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 17:25:10,285: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 17:25:10,286: INFO: common: created directory at: artifacts]
+[2024-02-27 17:25:10,286: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-27 17:25:10,687: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-27 17:25:10,759: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-27 17:25:10,760: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2024-02-27 17:25:10,811: INFO: stage_02_prepare_base_model: >>>>>>>>> stage Prepare Base Model completed <<<<<<<<<
+
+x==============x]
+[2024-02-27 17:25:14,794: INFO: stage_03_training: *******************]
+[2024-02-27 17:25:14,794: INFO: stage_03_training: >>>>>> stage Training started <<<<<<]
+[2024-02-27 17:25:14,796: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 17:25:14,797: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 17:25:14,797: INFO: common: created directory at: artifacts]
+[2024-02-27 17:25:14,797: INFO: common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2024-02-27 17:25:14,798: INFO: common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2024-02-27 17:25:14,798: INFO: common: created directory at: artifacts/training]
+[2024-02-27 18:12:28,619: INFO: stage_03_training: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-02-27 18:12:34,969: INFO: stage_04_evaluation: *******************]
+[2024-02-27 18:12:34,969: INFO: stage_04_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-02-27 18:12:34,972: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-27 18:12:34,973: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-27 18:12:34,973: INFO: common: created directory at: artifacts]
+[2024-02-27 18:13:02,564: INFO: common: json file saved at: scores.json]
+[2024-02-27 18:13:02,566: INFO: stage_04_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-02-27 18:50:41,876: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.5:8080]
+[2024-02-27 18:50:41,876: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-02-27 18:51:21,658: INFO: _internal: 127.0.0.1 - - [27/Feb/2024 18:51:21] "GET / HTTP/1.1" 200 -]
+[2024-02-27 18:52:19,149: INFO: _internal: 127.0.0.1 - - [27/Feb/2024 18:52:19] "POST /predict HTTP/1.1" 200 -]
